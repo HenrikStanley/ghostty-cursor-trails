@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/a65eabf1-0152-42a7-9e0c-e07448eeeb32
 
 1. Clone the repo into your `~/.config/ghostty/shaders` directory:
 ```bash
-git clone https://github.com/hced/ghostty-cursor-trails ~/.config/ghostty/shaders
+gh repo clone HenrikStanley/ghostty-cursor-trails
 ```
 
 2. Enable it by adding this line in your `~/.config/ghostty/config`:
